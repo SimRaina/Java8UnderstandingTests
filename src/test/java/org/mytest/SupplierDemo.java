@@ -1,4 +1,4 @@
-package org.test;
+package org.mytest;
 
 import java.util.function.Supplier;
 
